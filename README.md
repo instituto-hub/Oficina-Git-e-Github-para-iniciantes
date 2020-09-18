@@ -1,21 +1,21 @@
 # Oficina Git e Github para iniciantes
 [1. O que é Github?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#o-que-%C3%A9-github)
 
-2. Como criar uma conta Github
+[2. Como criar uma conta Github](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#como-criar-reposit%C3%B3rio)
 
 3. Como criar Repositório
 
-4. O que é o README e como usá-lo?
+[4. O que é o README e como usá-lo?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#o-que-%C3%A9-o-readme-e-como-us%C3%A1-lo)
 
-5. Markdown Syntax 
+[5. Markdown Syntax](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#markdown-syntax)
 
 6. Como Criar pastas e enviar arquivos no Github Web?
 
-7. O que é Git?
+[7. O que é Git?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#o-que-%C3%A9-git)
 
-8. Como instalar o Git?
+[8. Como instalar o Git?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#como-instalar-o-git)
 
-9. Exercícios no Git Bash
+[9. Exercícios no Git Bash](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash)
 
 
 
@@ -146,9 +146,6 @@ Baixar o Git no site: https://git-scm.com/downloads em seguida instale o arquivo
 ![alt text](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/Imagens/Download%20Git.jpeg)
 
 ![alt text](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/Imagens/Executar.jpeg)
-
-
-## Exercícios no Git Bash
 
 
 #### Referências:
