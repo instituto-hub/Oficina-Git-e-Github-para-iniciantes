@@ -1,10 +1,17 @@
 [1. Começando no Git Bash](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#come%C3%A7ando-no-git-bash)
+
 [2. Vamos configurar o Git Bash?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#vamos-configurar-o-git-bash)
+
 [3. Como encontar um projeto localmente (sua máquina física)?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#como-encontar-um-projeto-localmente-sua-m%C3%A1quina-f%C3%ADsica)
+
 [4. Como enviar seu repositório local para o repositório hospedado?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#como-enviar-seu-reposit%C3%B3rio-local-para-o-reposit%C3%B3rio-hospedado)
+
 [5. Clonando repositórios](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#clonando-reposit%C3%B3rios)
+
 [6. Atualizar seu repositório local](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#atualizar-seu-reposit%C3%B3rio-local)
+
 [7. Contribuindo com um projeto](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash#contribuindo-com-um-projeto)
+
 8. Verificar conflitos
 
 
