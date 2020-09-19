@@ -1,4 +1,4 @@
-# Oficina Git e Github para iniciantes
+# Oficina Git e Github para iniciantes :panda_face: :hearts:
 [1. O que é Github?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#o-que-%C3%A9-github)
 
 [2. Como criar uma conta Github](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#como-criar-reposit%C3%B3rio)
@@ -11,11 +11,13 @@
 
 6. Como Criar pastas e enviar arquivos no Github Web?
 
-[7. O que é Git?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#o-que-%C3%A9-git)
+7. Fazer um ***fork*** em um repositório
 
-[8. Como instalar o Git?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#como-instalar-o-git)
+[8. O que é Git?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#o-que-%C3%A9-git)
 
-[9. Exercícios no Git Bash](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash)
+[9. Como instalar o Git?](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/README.md#como-instalar-o-git)
+
+[10. Exercícios no Git Bash](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/tree/master/Exerc%C3%ADcios%20no%20Git%20Bash)
 
 
 
@@ -49,7 +51,7 @@ O README.md é um arquivo com extensão .md, ou seja, Markdown. Nesse arquivo co
 
 ## Markdown Syntax
 
-Para criar um **título**, adicione de um a seis símbolos '#' antes do texto do título. O número de # que você usa determina o tamanho do título.
+Para criar um **título**, adicione de um a seis símbolos `#`  antes do texto do título. O número de # que você usa determina o tamanho do título.
 ```
 # Título 1
 ## Título 2
@@ -78,12 +80,12 @@ Você pode **Estilizar** seu texto
 | Todo em negrito e itálico |	*** *** |  | ***Todo esse texto é importante*** |
 
 
-Para **citar um texto** use '>'
+Para **citar um texto** use `>`
 
 > "Diante da vastidão do tempo e da imensidão do universo, é um imenso prazer para mim dividir um planeta e uma época com você" (Carl Sagan).
 
 
-Para **citar cógigo** use **' '** ou para caixa de código use uma linha acima e na linha abixo aspas triplas.
+Para **citar cógigo** use acento grave (usado para escrever crases) ou para caixa de código use uma linha acima e na linha abaixo crases triplas.
 
 Para **citar cógigo com cor** nomeie a linguagem.
 
@@ -101,7 +103,7 @@ Este site foi feita do Github do Instituto HUB usando [GitHub Pages](https://pag
 
 ```
 
-Para criar uma **lista** não ordenada no texto use '-' ou ' * ' .
+Para criar uma **lista** não ordenada no texto use `-` ou ` * `.
 
 Ou lista numerada:
 ```
@@ -132,6 +134,8 @@ Para **mencionar pessoas** da equipe use o @
 
 ```
 
+## Fazer um ***fork*** em um repositório
+
 
 ## O que é Git?
 
@@ -148,11 +152,18 @@ Baixar o Git no site: https://git-scm.com/downloads em seguida instale o arquivo
 ![alt text](https://github.com/instituto-hub/Oficina-Git-e-Github-para-iniciantes/blob/master/Imagens/Executar.jpeg)
 
 
+
+
 #### Referências:
 
 https://docs.github.com/pt/github/writing-on-github/working-with-advanced-formatting
 
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o
 
+https://www.makeareadme.com/
 
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#person-fantasy
+
+https://github.com/kefranabg/readme-md-generator
 
 
